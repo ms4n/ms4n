@@ -2,6 +2,7 @@
 Hi, I'm **Sanjay** 👋
 
 I'm a passionate **backend-focused fullstack developer** with a flair for design. I love building products from 0 to 100 (and beyond).
+
 Although I'm unbounded by frameworks or languages, my go-to stack for building is **Python with Django/FastAPI and Node.js with TypeScript/Express.js/Next.js**, with a growing interest in Golang.
 
 I recently built **[whatnot](https://whatnotapp.xyz/)**, a straightforward tool that syncs WhatsApp with Google Suite. Simply send WhatsApp messages to:
