@@ -21,5 +21,7 @@ I'm currently building an AI-assisted journaling app where you can log anything,
 **Reach out to me through:**
 
 Twitter: https://twitter.com/sanjayy_m
+
 LinkedIn: https://www.linkedin.com/in/sanjay-m1/
+
 Email: work.sanjaym@gmail.com
