@@ -10,7 +10,7 @@ I recently built **[whatnot](https://whatnotapp.xyz/)**, a tool to sync WhatsApp
 - Upload media to Google Drive.
 - Set reminders via WhatsApp.
 
-I also developed an email category classifier [[link]](https://sortmail.vercel.app/) to help manage Gmail messages efficiently.
+I also developed an email category classifier [[link]](https://tidymail.xyz) to help manage Gmail messages efficiently.
 
 I'm building an AI-assisted journaling app for logging diet, macros, recipes, and workouts, offering smart insights and summaries. Starting with food journaling, it will expand to finance and general life journaling.
 
